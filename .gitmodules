@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mojson"]
+	path = mojson
+	url = https://github.com/chriswweibo/mojson
+	shallow = true
+	registered = true
